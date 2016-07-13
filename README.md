@@ -1,6 +1,7 @@
 # Bocks Code Annotation
 
-Create annotated code snippets with semantic highlighting.  Increase readability for teaching coding concepts or export slides for blog posts embedding or documentation. 
+Create annotated code snippets with semantic highlighting.  
+Increase readability for teaching coding concepts, or export slides for blog post embedding or documentation. 
 
 ## Getting Started
 
